@@ -45,11 +45,11 @@ int main()
  //  DETAYLI ANLATIM
      /* güncel tarih 10.04.2022 olsun,kullanıcının doğduğu tarih 16.11.1990 olsun
              
-             27.satırdaki if'e girdi
+             21.satırdaki if'e girdi
              16 > 10 -> 10 + 30 = 40 (gün değişkeninin yeni değeri: 40)
                         4 - 1 = 3   (ay değişkeninin yeni değeri: 3)
            
-             35.satırdaki if'e girdi
+             29.satırdaki if'e girdi
              11 > 4 -> 3 + 12 = 15  (ay değişkeninin yeni değeri: 15)
                     2022 - 1 = 2021 (yil değişkeninin yeni değeri: 2021)
              
