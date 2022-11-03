@@ -56,5 +56,4 @@ int main()
             sonucGun = 40 - 16 = 24
             sonucAy = 15 - 11 = 4 
             sonucYil = 2021 - 1990 = 31
-
     */
